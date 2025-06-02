@@ -13,7 +13,7 @@
 </p>
 
 # 💫 Sobre
-🥋 Lutador de Jiu Jitsu brasileiro no tempo livre<br>
+🥋 Lutador de Jiu Jitsu no tempo livre<br>
 🚀 Disponível para projetos<br>
 
 ## 💻 Tech Stack
