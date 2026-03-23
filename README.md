@@ -6,14 +6,13 @@
 
 <p align="center"> 
   <samp>
-    「 Tecnologia da Informação em <b>Brazil</b> 」
+    「 Tecnologia da Informação em <b>Brasil</b> 」
     <br>
   </samp>
   <br>
 </p>
 
 # 💫 Sobre
-🥋 Lutador de Jiu Jitsu no tempo livre<br>
 🚀 Disponível para projetos<br>
 
 ## 💻 Tech Stack
